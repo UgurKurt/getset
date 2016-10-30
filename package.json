@@ -1,0 +1,14 @@
+{
+  "name": "getsetfor",
+  "version": "1.0.0",
+  "description": "Training for",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ugurkurt",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
